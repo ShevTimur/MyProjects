@@ -1,5 +1,5 @@
 # MyProjectsCancel changes
 Hello
-You can watch my work in file Projects
+You can have a look at my work in file Projects
 
 Best wishes
